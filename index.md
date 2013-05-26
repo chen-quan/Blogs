@@ -1,5 +1,5 @@
 ---
-title: Statistics, R, Graphics and Fun
+title: 读书, 读网, 经济，统计 | Just For Fun
 layout: page
 ---
 
