@@ -11,7 +11,7 @@ tags: [介绍, Jekyll]
 ####fork+github for windows，你真的有希望三分钟内搞掂
 当然理解到这一步，三分钟不够。到了这一步，也真理解了[git](http://github.com/)为何在开源领域要胜过[sf](http://sourceforge.net/)了。
 
-- 知道一下Github是怎么玩的还是有必要的，[Roger Dudler](http://rogerdudler.github.io/git-guide/index.zh.html)的脑图是简介挺管用的，加上[GFW的官方help](http://windows.github.com/help.html/)不会有任何问题。
+- 知道一下Github是怎么玩的还是有必要的，[Roger Dudler](http://rogerdudler.github.io/git-guide/index.zh.html)的脑图简介挺管用的，加上[GFW的官方help](http://windows.github.com/help.html/)不会有任何问题。
 - 挑选一个喜欢的直接fork修改。别难为情，这是科学知识和技术积累的一般模式。自己再发明一遍轮子没必要。[谢益辉](http://yihui.name)这小伙子统计思想值得称道而且coding至简实用美观，他的[统计之都](http://cos.name/)是统计学习必看的，直接fork了。
 - 当然要想保留评论功能得去自己注册[disquz comment](http://disqus.com/)加入到代码里边。
 
