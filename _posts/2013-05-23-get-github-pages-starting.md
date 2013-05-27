@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  Jekyll不好部署？你完全可以绕过去！
+title:  Jekyll不好部署?你完全可以绕过去!
 categories: [instruction]
 tags: [介绍, Jekyll]
 
