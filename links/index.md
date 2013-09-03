@@ -12,6 +12,7 @@ comments: yes
 - [Probability and statistics blog](http://www.statisticsblog.com/): Monte Carlo simulations in R and philosophical issues related to the practice of statistics
 - [John Myles White's Github](https://github.com/johnmyleswhite?tab=repositories)
 - [John Myles White's blog](http://www.johnmyleswhite.com/)
+- [Cosma Rohilla Shalizi](http://www.stat.cmu.edu/~cshalizi/) and [website of Umich](http://vserver1.cscs.lsa.umich.edu/~crshalizi/)
 
 ## R Language
 
